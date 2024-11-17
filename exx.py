@@ -1,2 +1,1 @@
-print("ready")
-print("read2y")
+print("hypersonic")
